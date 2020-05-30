@@ -26,3 +26,7 @@ While running the simulation, you can press:
 * X - Decrement velocity in horizontal axis by 10px/tick
 * y - Increment velocity in vertical axis by 10px/tick
 * Y - Decrement velocity in vertical axis by 10px/tick
+
+### Gif
+
+![Sim](sim.gif)
