@@ -16,7 +16,7 @@ While running the simulation, you can press:
 
 * c - Next Color (8 bit colors)
 * C - Previous Color
-* \- - Decrement radius by 5px
+* \-  - Decrement radius by 5px
 * \+ - Increment radius by 5px
 * d - Increment density by 50 mass/pixel
 * D - Decrement density by 50 mass/pixel
